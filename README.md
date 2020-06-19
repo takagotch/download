@@ -1,5 +1,21 @@
 ### download
 ---
+
+
+
+
+download .zip
+```
+// https://github.com/artemsheludko/fresh/archive/master.zip
+<li class="menu-items"><a class="menu-links" href="https://github.com/artemsheludko/fresh/archive/master.zip">Download</a></li>
+
+```
+
+```
+
+```
+
+
 https://github.com/kevva/download
 
 ```
